@@ -2,12 +2,12 @@ Python @ VIS 2014
 =================
 
 Links to the static notebooks:
-- [Section 0]()
-- [Section 1-1]()
-- [Section 1-2]()
-- [Section 2]()
-- [Section 3]()
-- [Section 4]()
+- [Section 0](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section0_intro.ipynb)
+- [Section 1-1](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section1-1_ipython.ipynb)
+- [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section1-2_matplotlib.ipynb)
+- [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section2_numpy_scipy_pandas.ipynb)
+- [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section3_bokeh.ipynb)
+- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section4_vtk.ipynb)
 
 All notebooks have been created in 2.7 Python.
 
