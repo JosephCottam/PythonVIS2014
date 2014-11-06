@@ -27,7 +27,7 @@ At the tutorial, we will provide instructions to view the static
 web versions that we will be presenting, if you do not wish to install
 the virtual machine and software.
 
-*All materials will be available afterwards on github at:
+*All materials (except for the VM) will be available afterwards on github at:
  http://github.com/JosephCottam/PythonVIS2014*
 
 
@@ -106,5 +106,7 @@ showing the ipython notebook interface.
 Notes
 -----
 
-*All materials will be available afterwards on github at:
+*All materials (except for the VM) will be available afterwards on github at:
  http://github.com/JosephCottam/PythonVIS2014*
+
+Contact Jon Woodring (woodring-at-lanl-dot-gov) if you would like a copy of the VM.
