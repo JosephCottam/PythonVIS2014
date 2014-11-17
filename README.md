@@ -9,7 +9,13 @@ Links to the static notebooks:
 - [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section3_bokeh.ipynb) bokeh
 - [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonVIS2014/blob/master/Section4_vtk.ipynb) VTK
 
-All notebooks have been created in 2.7 Python.
+These tutorials were created in mind using a virtual machine with Anaconda
+Python pre-installed. It's not necessary to have the VM, it just makes it
+easier.
+
+Instead of the VM, all notebooks have been created in 2.7 Python with 
+[Anaconda Python](http://continuum.io/downloads) and the VTK 5.10 package,
+and you only need to install these tools on your computer.
 
 Using Python for Visualization and Analysis @ VIS 2014
 ------------------------------------------------------
